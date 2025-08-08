@@ -26,6 +26,8 @@ I enjoy working with different technologies and exploring new areas in tech.
 - [**Curso Profesional de Git y GitHub** – Platzi](https://platzi.com/p/katherinest0801/curso/11059-gitgithub/diploma/detalle/)  
   *Completed on Platzi – Covers Git basics, branching, merging, GitHub workflows, and collaboration best practices.*
 
+- [**Curso de C++ Básico** – Platzi](https://platzi.com/p/katherinest0801/curso/2372-course/diploma/detalle/)  
+
 ## <img alt="cat dance" src="gifts/cat.gif" width="50px">&nbsp;***Spotify Playing***
 
 <div style="display: flex; gap: 15px; justify-content: center;">
